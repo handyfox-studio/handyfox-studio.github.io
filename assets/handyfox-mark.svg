@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+    <rect width="512" height="512" fill="#1F2236"></rect>
+  <defs><clipPath id="a1"><rect x="140" y="196" width="232" height="216" rx="66"></rect></clipPath></defs>
+  <path d="M152 258 L172 116 L250 200 Z" fill="#F2701F" stroke="#F2701F" stroke-width="24" stroke-linejoin="round"></path>
+  <path d="M360 258 L340 116 L262 200 Z" fill="#F2701F" stroke="#F2701F" stroke-width="24" stroke-linejoin="round"></path>
+  <path d="M182 214 L188 156 L226 200 Z" fill="#B9480B" stroke="#B9480B" stroke-width="12" stroke-linejoin="round"></path>
+  <path d="M330 214 L324 156 L286 200 Z" fill="#B9480B" stroke="#B9480B" stroke-width="12" stroke-linejoin="round"></path>
+  <rect x="140" y="196" width="232" height="216" rx="66" fill="#F2701F"></rect>
+  <path clip-path="url(#a1)" d="M130 306 C186 298 226 326 256 372 C286 326 326 298 382 306 L382 420 L130 420 Z" fill="#FFF1DF"></path>
+  <ellipse cx="204" cy="282" rx="14" ry="17" fill="#1F2236"></ellipse>
+  <ellipse cx="308" cy="282" rx="14" ry="17" fill="#1F2236"></ellipse>
+  <ellipse cx="256" cy="372" rx="19" ry="13" fill="#1F2236"></ellipse></svg>
